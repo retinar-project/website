@@ -1,11 +1,11 @@
 ---
-title: "John Doe"
+title: "José Ignacio Orlando"
 image: ""
-email: "email2@example.org"
+email: "jiorlando@pladema.exa.unicen.edu.ar"
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+    link : "#"
+  - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
     link : "#"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
     link : "#"

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://retinar-project.github.io"
-title = "Meghna"
+title = "retinar"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -22,7 +22,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+link = "https://fonts.googleapis.com/css2?family=Encode+Sans:wght@500;700&display=swap"
 
 # js plugins
 [[params.plugins.js]]
@@ -141,11 +141,11 @@ weight = 1
 home = "Home"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+################################ Spanish Language ########################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-ar"
+contentDir = "content/spanish"
+weight = 1
+home = "Home"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) todos los derechos reservados"
