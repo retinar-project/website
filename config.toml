@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://retinar-project.github.io"
+baseURL = "retinar.com.ar"
 title = "retinar"
 theme = "meghna-hugo"
 # post pagination
@@ -84,10 +84,10 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_blue.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "retinar: telemedicina oftalmológica para "
+author = "ignaciorlando basado en Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -96,7 +96,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/logo_blue.png"
 
 # google map
 [params.map]
@@ -113,22 +113,10 @@ link = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/retinarARG"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 
