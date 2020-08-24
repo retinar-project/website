@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "retinar.com.ar"
+baseURL = "https://retinar.com.ar"
 title = "retinar"
 theme = "meghna-hugo"
 # post pagination
@@ -85,6 +85,7 @@ weight = 8
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo_blue.png"
+logo_footer = "images/logo_white.png"
 # Meta data
 description = "retinar: telemedicina oftalmológica para "
 author = "ignaciorlando basado en Themefisher"

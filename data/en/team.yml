@@ -4,26 +4,24 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : José Ignacio Orlando
+      image_webp : images/team/nacho_orlando.webp
+      image : images/team/nacho_orlando.jpg
+      designation : Co-founder/AI staff
+      content : Assistant Research @ CONICET (PLADEMA / UNICEN)
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/ignaciorlando"
+        - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+          link : "https://ar.linkedin.com/in/jos%C3%A9-ignacio-orlando-560b8040"
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://ignaciorlando.github.io"
         
     # team member loop
-    - name : Frank Miller
+    - name : Mercedes Leguía
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
-      designation : Manager
+      designation : Co-founder/Clinical staff
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -36,10 +34,10 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
+    - name : Ezequiel Rosendi
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
-      designation : Web Developer
+      designation : Co-founder/Clinical staff
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -52,10 +50,10 @@ team:
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
+    - name : Alejandro Koch
+      image_webp : images/team/alejandro_koch.webp
+      image : images/team/alejandro_kochjpg
+      designation : Co-founder/Clinical staff
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -66,3 +64,15 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
+
+    # team member loop
+    - name : Ignacio Larrabide
+      image_webp : images/team/ignacio_larrabide.webp
+      image : images/team/ignacio_larrabide.jpg
+      designation : Co-founder/AI staff
+      content : Independent Research @ CONICET (PLADEMA / UNICEN)
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://ar.linkedin.com/public-profile/in/ignacio-larrabide-80426428"
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://yatiris.github.io/people/ignacio_larrabide/index.html"

@@ -131,7 +131,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: #FED400;
 }
 
 .sub-title {
@@ -703,6 +703,10 @@ a:hover {
   padding-top: 50px;
 }
 
+.contact-us .color {
+  color: #FED400;
+}
+
 @media (max-width: 768px) {
   .contact-us {
     padding-top: 80px;
@@ -718,7 +722,7 @@ a:hover {
   border-radius: 0;
   padding: 5px 10px;
   color: #FAFAFA;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(236, 239, 241, 0.5);
 }
 
 .form-meghna .form-control:focus {
@@ -731,22 +735,31 @@ a:hover {
   border-color: #FAFAFA;
 }
 
-#contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #FAFAFA;
-  padding: 12px 0;
-  width: 100%;
-  margin: 0;
-  color: #000000;
+#cf-submit {
+  text-align:right;
 }
 
-#contact-submit:hover {
-  border-color: #000000;
-  background-color: #FAFAFA;
+#contact-submit {
+  display: inline-block;
+  border:none;
+  width:auto;
+  padding:0;
+}
+
+#contact-submit:before {
+  content:"\e65d";
+  font-family: themify;
+  font-size: 40px;
+  opacity: 0.8;
+  color: #fafafa;
+}
+
+#contact-submit:hover:before {
+  opacity: 1;
 }
 
 .form-meghna ::placeholder {
-  color: #ddd !important;
+  color: #fafafa !important;
 }
 
 .google-map #map-canvas {
@@ -755,6 +768,11 @@ a:hover {
 
 .contact-info p {
   margin-bottom: 25px;
+  font-weight: 700;
+}
+
+.contact-info h3 {
+  color: #000000
 }
 
 .con-info {
@@ -1536,6 +1554,11 @@ input#e-mail,
 /*=================================================================
   Footer section
 ==================================================================*/
+
+#footer {
+  background: #A8A3A0;
+}
+
 .social-icon {
   padding: 60px 0 35px;
 }
@@ -1549,7 +1572,8 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #FAFAFA;
+  background-color: transparent;
+  color: #fafafa;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1557,9 +1581,6 @@ input#e-mail,
   transition: all 400ms ease-out 0s;
 }
 
-.social-icon ul li a:hover {
-  background: #A8A3A0;
-}
 
 .social-icon ul li a:hover i {
   color: #fafafa;
@@ -1567,18 +1588,22 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #A8A3A0;
+  color: #fafafa;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
   margin: 0;
-  opacity: 0.3;
+  opacity: 0.6;
   transition: all 400ms ease-out 0s;
 }
 
 .copyright {
   padding: 20px 0;
   color: #fff;
+}
+
+.copyright a {
+  color: #FED400;
 }
 
 .copyright img {

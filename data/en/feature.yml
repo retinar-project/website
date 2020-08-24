@@ -3,13 +3,13 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Crowdsourcing diabetic retinopathy diagnosis.
+  content : "Diabetic Retinopathy is one of the most common consequences of diabetes, and the leading cause of preventable blindness in working-age adults."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Diabetic Retinopathy
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Diabetic Retinopathy is one of the most common consequences of diabetes, and the leading cause of preventable blindness in working-age adults.
       
       # feature item loop
     - title : Easy Customization
