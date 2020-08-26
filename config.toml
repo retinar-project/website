@@ -18,6 +18,10 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+[[params.plugins.css]]
+link = "plugins/poncho/icono-arg.css"
+[[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
@@ -51,43 +55,44 @@ name = "services"
 URL = "services"
 weight = 2
 
-[[menu.main]]
-name = "portfolio"
-URL = "portfolio"
-weight = 3
+#[[menu.main]]
+#name = "portfolio"
+#URL = "portfolio"
+#weight = 3
 
 [[menu.main]]
 name = "team"
 URL = "team"
 weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
-
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
+#[[menu.main]]
+#name = "pricing"
+#URL = "pricing"
+#weight = 5
 
 [[menu.main]]
 name = "contact"
 URL = "contact"
+weight = 6
+
+[[menu.main]]
+name = "news"
+URL = "blog"
 weight = 7
 
+
 #### external / static link ####
-[[menu.static]]
-name = "themefisher"
-URL = "https://themefisher.com/"
-weight = 8
+#[[menu.static]]
+#name = "themefisher"
+#URL = "https://themefisher.com/"
+#weight = 8
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo_blue.png"
 logo_footer = "images/logo_white.png"
 # Meta data
-description = "retinar: telemedicina oftalmológica para "
+description = "retinar: inteligencia artificial y telemedicina oftalmológica para diagnóstico de retinopatía diabética"
 author = "ignaciorlando basado en Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -126,7 +131,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
 

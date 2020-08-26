@@ -2,15 +2,16 @@
 about:
   enable : true
   title : About Us
+  video : https://www.youtube.com/embed/WAPHBQcLNTo
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : fa fa-eye # themify icon pack : https://themify.me/themify-icons
+    title : Earlier Diagnostics
+    content : Trained technicians take fundus pictures from patients anywhere, without ophthalmologists in place. retinar AI software automatically detects signs of vision threatening diabetic retinopathy to communicate the diagnosis to the patient.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : icono-arg-anticorrupcion # themify icon pack : https://themify.me/themify-icons
+    title : Better Reports
+    content : Referrable cases are automatically send to certified experts to be further revised and to confirm the diagnosis. retinar AI tool aids these clinicians to carefully examine each picture they get, yielding more accurate reports in less time.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : icono-arg-medico # themify icon pack : https://themify.me/themify-icons
+    title : Faster Treatment
+    content : Patients with referrable cases confirmed by the experts are automatically assisted by retinar, getting recommendations of the closest clinics and medical centers that can treat their pathology.

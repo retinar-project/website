@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Automated DR Screening
+      icon : fa fa-eye # themify icon pack : https://themify.me/themify-icons
+      content : Any primary care unit, optometrist or diabetologist can use retinar to automatically detect referrable diabetic retinopathy cases using our AI tool.
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : A Platform for Remote Reading
+      icon : icono-arg-comisiones-cofefup-analisis # themify icon pack : https://themify.me/themify-icons
+      content : Certified retina experts can read images remotely and on-demand using our platform, allowing them to reach more patients without moving from their place.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Computer-assisted Diagnosis
+      icon : icono-arg-ciencia-publicacion # themify icon pack : https://themify.me/themify-icons
+      content : Our AI technology aids ophthalmologists to increase their throughput when diagnosing patients from fundus pictures, bringing efficiency to the reading process.
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : AI Assisted Fundus Image Acquisition
+      icon : icono-arg-componentes # themify icon pack : https://themify.me/themify-icons
+      content : With a minimum training, any technician can use our AI support to get high quality fundus pictures, reducing costs and ensuring better diagnostics.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Networks for Treatment
+      icon : icono-arg-exterior # themify icon pack : https://themify.me/themify-icons
+      content : Any clinic and/or specialist with treatment support can register in our platform to be recommended by retinar to referrable patients.
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Logistic Solutions to Patients
+      icon : icono-arg-ahorro # themify icon pack : https://themify.me/themify-icons
+      content : Patients no longer need to search clinics for treatment by themselves. retinar recommends the closest health centers to start treatment right away.

@@ -217,12 +217,12 @@ a:hover {
 }
 
 .btn-main {
-  background-color: transparent;
+  background-color: #FFFFFF;
   border-color: #000000;
   color: #000000;
   display: inline-block;
-  font-size: 14px;
-  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 700;
   padding: 10px 35px;
 }
 
@@ -326,6 +326,10 @@ a:hover {
 
 .section-bg {
   background: #009FE4;
+}
+
+.section-bg .color {
+  color: #FED400
 }
 
 .section-bg h2 {
@@ -497,7 +501,6 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -573,6 +576,11 @@ a:hover {
   border-bottom: 2px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
+}
+
+.about iframe.embedded-youtube-video {
+  display: block;
+  margin: -20px auto 40px;
 }
 
 .about .block:hover {
@@ -665,12 +673,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #000000;
+  color: #FAFAFA;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #000000;
+  color: #FAFAFA;
 }
 
 .call-to-action .btn-main {
@@ -999,6 +1007,10 @@ a:hover {
   font-size: 50px;
 }
 
+.service-block .fa.fa-eye {
+  font-size: 76px;
+}
+
 /*=================================================================
   Services section 2
 ==================================================================*/
@@ -1036,9 +1048,11 @@ a:hover {
 /*=================================================================
   Our skills
 ==================================================================*/
+
 .skill-bar p {
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 0;
+  color: #FAFAFA;
 }
 
 .skill-bar p span {
@@ -1047,6 +1061,7 @@ a:hover {
   color: #FAFAFA;
   display: inline-block;
   vertical-align: middle;
+  margin: 0 10px 0 0;
 }
 
 .skill-bar .progress {
@@ -1082,7 +1097,7 @@ a:hover {
 
 @media (max-width: 768px) {
   .member-photo {
-    text-align: center;
+    align-content: center;
   }
 }
 
@@ -1093,6 +1108,7 @@ a:hover {
 
 .member-photo img {
   transition: all 0.4s ease 0s;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -1279,6 +1295,21 @@ a:hover {
   font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
+}
+
+.post-block .btn-transparent {
+  background-color: transparent;
+  color: #000000;
+  padding: 8px 30px;
+  border-radius: 0;
+  transition: all .3s ease-in 0s;
+  border: 1px solid #000000;
+}
+
+.post-block .btn-transparent:hover,
+.post-block .btn-transparent:focus {
+  background-color: #A8A3A0;
+  color: #fff;
 }
 
 .note .media-wrapper {

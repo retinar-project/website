@@ -1,16 +1,17 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : ¿Quiénes somos?
+  video : https://www.youtube.com/embed/WAPHBQcLNTo
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : fa fa-eye # themify icon pack : https://themify.me/themify-icons
+    title : Diagnosticos Más Económicos
+    content : Técnicos/as entrenados/as toman retinografías de pacientes desde cualquier sitio, sin necesidad de oftalmólogos en el lugar. La IA de retinar detecta automáticamente signos de riesgo asociados a la retinopatía diabética y comunica el diagnóstico al paciente al instante.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : icono-arg-anticorrupcion # themify icon pack : https://themify.me/themify-icons
+    title : Informes Más Precisos
+    content : Los casos referibles son enviados automáticamente a expertos/as certificados/as para ser revisados y confirmar el diagnóstico. La IA de retinar ayuda a estos médicos/as a examinar los estudios, logrando informes más precisos en mucho menos tiempo.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : icono-arg-medico # themify icon pack : https://themify.me/themify-icons
+    title : Tratamientos Más Rápidos
+    content : Los/as pacientes referidos que tienen un diagnóstico confirmado por un/a experto/a son asistidos por retinar, que brinda recomendaciones automáticas acerca de qué clínicas y centros asistenciales cercanos a su residencia tienen capacidades para tratar su patología específica.

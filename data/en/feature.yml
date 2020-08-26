@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : Crowdsourcing diabetic retinopathy diagnosis.
-  content : "Diabetic Retinopathy is one of the most common consequences of diabetes, and the leading cause of preventable blindness in working-age adults."
+  image : images/about/nurse.webp
+  image_webp : images/about/nurse.webp
+  title : The right diagnosis. Everywhere. Anytime.
+  content : "retinar aids patients around the world to access to an accurate diagnosis regardless of the regional availability of ophthalmologists."
   feature_item : 
       # feature item loop
-    - title : Diabetic Retinopathy
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Diabetic Retinopathy is one of the most common consequences of diabetes, and the leading cause of preventable blindness in working-age adults.
+    - title : Fundus image based
+      icon : fa fa-camera # themify icon pack : https://themify.me/themify-icons
+      content : Our platform is entirely based on fundus photographs, a non-invasive & cost-effective medical imaging technique that can be easily captured by trained technicians.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : AI based instant referral
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Our AI can determines in-place and with high accuracy if the patient needs referral to an ophthalmologist. In that case, the image is transferred for analysis to retina experts.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Connecting professionals
+      icon : icono-arg-conexion # themify icon pack : https://themify.me/themify-icons
+      content : retinar allows any certified expert in retina to join as a reader. Using AI, we aid them to produce better reports and to connect rapidly with patients that need treatment.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Treatment recommendations
+      icon : fa fa-hospital-o # themify icon pack : https://themify.me/themify-icons
+      content : We provide risk patients with recommendations of hospitals and private clinics close to their places, to reduce logistics costs, bring rapid treatment and prevent blindness.

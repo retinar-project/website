@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Últimos Posts
+  translation: Últimas Noticias
 - id: readMore
   translation: Leer más
 - id: viewAllPost
@@ -13,7 +13,7 @@
 - id: all
   translation: Todo
 - id: about
-  translation: Acerca de
+  translation: ¿Quiénes somos?
 - id: services
   translation: Servicios
 - id: portfolio

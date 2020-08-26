@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/nurse.webp
+  image_webp : images/about/nurse.webp
+  title : El diagnóstico correcto. A tiempo. Estés donde estés.
+  content : "retinar ayuda a pacientes diabéticos/as en todo el mundo brindándoles acceso a un diagnóstico preciso y seguro, independiente de la disponibilidad de oftalmólogos/as en la región."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Fotografías de fondo de ojo
+      icon : fa fa-camera # themify icon pack : https://themify.me/themify-icons
+      content : Nuestra plataforma usa fotografías de fondo de ojo, una imagen médica no-invasiva y de bajo costo que permite identificar signos de retinopatía diabética y puede ser adquirida por técnicos/as con un mínimo entrenamiento.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
+    - title : Tamizado inmediato con IA 
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Nuestra inteligencia artificial puede determinar en el lugar y con gran precisión si el/la paciente presenta lesiones o signos que deban ser estudiados en detalle por un/a profesional. Si es así, la imagen se transfiere directamente a expertos/as en retina. 
+      
+      # feature item loop
+    - title : Conectamos con profesionales
+      icon : icono-arg-conexion # themify icon pack : https://themify.me/themify-icons
+      content : retinar le permite a cualquier experto/a en retina certificado /a utilizar la plataforma para hacer informes. Mediante IA, los/as ayudamos a producir mejores informes y a conectarse rápidamente con los/as pacientes que necesitan tratamiento.
+      
+      # feature item loop
+    - title : Recomendaciones de tratamiento
+      icon : fa fa-hospital-o # themify icon pack : https://themify.me/themify-icons
+      content : Los/as pacientes de riesgo reciben recomendaciones inmediatas de hospitales y clínicas privadas cercanas a su residencia en las que puedan tratarse. Esto reduce costos de logística y permite brindar un tratamiento a tiempo para prevenir la ceguera.

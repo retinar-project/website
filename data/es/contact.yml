@@ -1,31 +1,32 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Podés Contactarnos
+  subtitle : Detalles de Contacto
+  content : retinar es un proyecto en curso que estamos muy entusiasmados en concretar! Si querés saber más o unirte a nuestro equipo multidisciplinario de médicos/as y científicos/as de datos, podés contactarnos!
 
   # Contact details
   contact_list:
+
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
+      info : "PLADEMA, Campus Universitario UNICEN, Tandil, BA, Argentina"
+
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "TEL: +54-249-438-5690 (Int. 2411)"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Fax: +54-249-438-5690"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: retinar@pladema.exa.unicen.edu.ar"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Matière"
-    message : "Message"
-    submit : "Soumettre"
+    form_action : "https://formspree.io/meqrwngy" #contact form works with https://formspree.io
+    name : "Tu Nombre"
+    email : "Tu Email"
+    subject : "Asunto"
+    message : "Mensaje"
+    submit : ""

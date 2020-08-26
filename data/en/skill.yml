@@ -1,26 +1,32 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title : Preventing Blindness
+  subtitle : "Diabetic Retinopathy: the leading cause of blindness in working age adults"
+  content : Diabetic mellitus is a pandemic that affects around 8.5% of the world's adult populations. Every person with diabetes is at risk of developing diabetic retinopathy (DR). Approximately 1 in 3 people with diabetes have some degree of DR, and 1 in 10 will develop a vision threatening form of the disease.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  million people in the world suffer from diabetes
+      number : +415
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  million in the world have some form of DR
+      number : +145
       percent : 70%
       
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
+    - name :  million have vision threatening DR
+      number : 10
+      percent : 50%
       
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name :  of people with diabetes get its eye exam
+      number : 30%
+      percent : 30%
+
+    # skill item loop
+    - name :  million people per each ophthalmologist in the world!
+      number : 31.7
+      percent : 3%

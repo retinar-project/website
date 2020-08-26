@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Nuestros Servicios
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Tamizado Automático de Retinopatía
+      icon : fa fa-eye # themify icon pack : https://themify.me/themify-icons
+      content : Cualquier centro de atención primaria, optometrista o diabetólogo/a puede usar retinar para detectar automáticamente retinopatía diabética referible mediante nuestra IA.
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Una Plataforma para Informe Remoto
+      icon : icono-arg-comisiones-cofefup-analisis # themify icon pack : https://themify.me/themify-icons
+      content : Expertos/as en retina certificados pueden informar imágenes remotamente y a demanda usando retinar, permitiéndoles llegar a más pacientes sin moverse de su casa.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Diagnóstico Asistido por Computadora
+      icon : icono-arg-ciencia-publicacion # themify icon pack : https://themify.me/themify-icons
+      content : Nuestra tecnología de IA predice la ubicación de los signos de retinopatía y su grado de avance, facilitando a los/as oftalmólogos/as el proceso de informe de las imágenes.
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Fácil Captura de Imágenes
+      icon : icono-arg-componentes # themify icon pack : https://themify.me/themify-icons
+      content : Cualquier técnico/a puede adquirir retinografías de calidad gracias a nuestra tecnología de soporte a la captura usando IA, reduciendo costos y asegurando mejores diagnósticos.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Redes para Tratamientos
+      icon : icono-arg-exterior # themify icon pack : https://themify.me/themify-icons
+      content : Cualquier centro de salud o especialista con capacidades de tratar la patología puede registrarse en nuestra plataforma y ser recomendada a aquellos/as pacientes que lo necesitan.
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Solución Logística para Pacientes
+      icon : icono-arg-ahorro # themify icon pack : https://themify.me/themify-icons
+      content : Los/as pacientes ya no necesitan buscar por sus propios medios quién puede brindarles la terapia que necesitan. retinar recomienda los centros más cercanos para iniciar el tratamiento a tiempo.

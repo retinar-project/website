@@ -13,7 +13,7 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<h1>{{ .title | markdownify }}</h1>
+		<h1>{{ .titleFirstPart | markdownify }}<span class="color">{{ .titleLastPart | markdownify }}</span></h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}

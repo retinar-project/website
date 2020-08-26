@@ -5,8 +5,10 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "retinar"
-  content : "telemedicina distribuida e inteligencia artificial para asistencia al diagnóstico de retinopatía diabética"
+  titleFirstPart : "retin"
+  titleLastPart : "ar"
+  content : "artificial intelligence and distributed telemedicine for computer-aided diagnosis of diabetic retinopathy"
   button:
     enable : true
-    label : "conocé más"
+    label : "explore us"
     link : "#services"
