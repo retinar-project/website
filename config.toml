@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://retinar.com.ar"
+baseURL = "https://www.retinar.com.ar"
 title = "retinar"
 theme = "meghna-hugo"
 # post pagination

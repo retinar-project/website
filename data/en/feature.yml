@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/nurse.webp
+  image : images/about/nurse.jpg
   image_webp : images/about/nurse.webp
   title : The right diagnosis. Everywhere. Anytime.
   content : "retinar aids patients around the world to access to an accurate diagnosis regardless of the regional availability of ophthalmologists."
