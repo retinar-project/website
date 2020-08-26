@@ -114,9 +114,9 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
@@ -124,7 +124,7 @@ link = "https://twitter.com/retinarARG"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCg2K_iT5S8UgA36ukvgxKhQ"
 
 
 ################################ English Language ########################
