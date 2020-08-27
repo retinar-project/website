@@ -1305,19 +1305,24 @@ a:hover {
   text-transform: capitalize;
 }
 
-.post-block .btn-transparent {
-  background-color: transparent;
+
+.post-block .btn-transparent ,
+.post-block .btn-main {
+  background-color: #FFFFFF;
+  border-color: #000000;
   color: #000000;
-  padding: 8px 30px;
-  border-radius: 0;
-  transition: all .3s ease-in 0s;
-  border: 1px solid #000000;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px 35px;
 }
 
 .post-block .btn-transparent:hover,
-.post-block .btn-transparent:focus {
-  background-color: #A8A3A0;
-  color: #fff;
+.post-block .btn-transparent:focus,
+.post-block .btn-main:hover,
+.post-block .btn-main:focus {
+  background: #009FE4;
+  color: #FAFAFA;
 }
 
 .note .media-wrapper {
