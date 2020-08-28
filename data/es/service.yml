@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : Una Plataforma para Informe Remoto
       icon : icono-arg-comisiones-cofefup-analisis # themify icon pack : https://themify.me/themify-icons
-      content : Expertos/as en retina certificados pueden informar imágenes remotamente y a demanda usando retinar, permitiéndoles llegar a más pacientes sin moverse de su casa.
+      content : Expertos/as en retina certificados/as pueden informar imágenes remotamente y a demanda usando retinar, permitiéndoles llegar a más pacientes sin moverse de su casa.
       
     # service item loop
     - name : Diagnóstico Asistido por Computadora

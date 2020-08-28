@@ -3,7 +3,7 @@ title: "Sitio online!"
 date: 2020-08-22T12:52:36+06:00
 image_webp: images/blog/sitio_retinar.webp
 image: images/blog/sitio_retinar.jpg
-author: José Ignacio Orlando
+author: Jose Ignacio Orlando
 description : "Lanzamos nuestro sitio web para contarte nuestras últimas novedades"
 ---
 

@@ -3,7 +3,7 @@ title: "Our website is online!"
 date: 2020-08-22T12:52:36+06:00
 image_webp: images/blog/sitio_retinar.webp
 image: images/blog/sitio_retinar.jpg
-author: José Ignacio Orlando
+author: Jose Ignacio Orlando
 description : "We launched our website to keep you updated about our latest news"
 ---
 

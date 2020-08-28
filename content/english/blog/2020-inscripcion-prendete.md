@@ -1,9 +1,9 @@
 ---
 title: "We're participating in Prendete"
-date: 2020-08-22T12:52:36+06:00
+date: 2020-08-27T12:52:36+06:00
 image_webp: images/blog/logo_prendete.webp
 image: images/blog/logo_prendete.jpg
-author: José Ignacio Orlando
+author: Jose Ignacio Orlando
 description : "retinar is officially participating in Prendete, the innovative business ideas contest in Tandil"
 ---
 

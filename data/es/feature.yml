@@ -19,9 +19,9 @@ feature:
       # feature item loop
     - title : Conectamos con profesionales
       icon : icono-arg-conexion # themify icon pack : https://themify.me/themify-icons
-      content : retinar le permite a cualquier experto/a en retina certificado /a utilizar la plataforma para hacer informes. Mediante IA, los/as ayudamos a producir mejores informes y a conectarse rápidamente con los/as pacientes que necesitan tratamiento.
+      content : retinar le permite a cualquier experto/a en retina certificado/a utilizar la plataforma para hacer informes. Mediante IA, los/as ayudamos a producir mejores reportes y a conectarse rápidamente con los/as pacientes que necesitan tratamiento.
       
       # feature item loop
     - title : Recomendaciones de tratamiento
       icon : fa fa-hospital-o # themify icon pack : https://themify.me/themify-icons
-      content : Los/as pacientes de riesgo reciben recomendaciones inmediatas de hospitales y clínicas privadas cercanas a su residencia en las que puedan tratarse. Esto reduce costos de logística y permite brindar un tratamiento a tiempo para prevenir la ceguera.
+      content : Los/as pacientes de riesgo reciben recomendaciones inmediatas de hospitales y clínicas cercanas a su residencia en las que puedan tratarse. Esto reduce costos de logística y permite brindar un mejor tratamiento a tiempo para prevenir la ceguera.

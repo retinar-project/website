@@ -7,5 +7,5 @@ cta:
   content : "Nuestro equipo interdisciplinario de científicos/as de datos y oftalmólogos/as desarrolla algoritmos de punta basados en IA para asistir el diagnóstico de enfermedades visuales."
   button:
     enable : true
-    label : "Sumate!"
+    label : "Conocenos!"
     link : "#contact"

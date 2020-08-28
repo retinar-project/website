@@ -7,5 +7,5 @@ cta:
   content : "Our team of data scientists develops cutting edge AI tools to aid clinicians to diagnose eye diseases."
   button:
     enable : true
-    label : "Join us!"
+    label : "Contact Us!"
     link : "#contact"

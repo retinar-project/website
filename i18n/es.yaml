@@ -7,7 +7,11 @@
 - id: share
   translation: Compartir
 - id: aboutAuthor
-  translation: Acerca del autor
+  translation: El Autor
+- id: aboutAuthor1
+  translation: Acerca del
+- id: aboutAuthor2
+  translation: Autor
 - id: authorsPosts
   translation: Otros posts del autor
 - id: all
@@ -22,8 +26,8 @@
   translation: Equipo
 - id: pricing
   translation: Precios
-- id: blog
-  translation: Blog
+- id: news
+  translation: Noticias
 - id: contact
   translation: Contacto
 - id: themefisher

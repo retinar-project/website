@@ -211,10 +211,6 @@ a:hover {
   outline: 0;
 }
 
-a:focus,
-a:hover {
-  color: #57cbcc;
-}
 
 .btn-main {
   background-color: #FFFFFF;
@@ -2351,9 +2347,9 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #57cbcc;
-  border-color: #57cbcc;
-  color: #fff
+  background: #4B97D1;
+  border-color: #4B97D1;
+  color: #fafafa
 }
 
 .pagination .page-item:first-child .page-link,
@@ -2374,9 +2370,22 @@ figcaption {
 }
 
 .simple-icon {
-  color: #6c7b8a;
+  color: #fafafa;
+  font-size: 30px;
   padding: 10px;
   display: block;
+  opacity: 0.7;
+}
+
+.simple-icon:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #fafafa;
+}
+
+.new-post a:hover,
+.new-post a:focus{
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=maps/style.css.map */

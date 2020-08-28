@@ -1,6 +1,6 @@
 ---
 title: "Jose Ignacio Orlando"
-image: ""
+image: "images/team/nacho_orlando.jpg"
 email: "jiorlando@pladema.exa.unicen.edu.ar"
 social:
   - icon : "ti-world" # themify icon pack : https://themify.me/themify-icons

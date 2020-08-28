@@ -11,4 +11,4 @@ banner:
   button:
     enable : true
     label : "explore us"
-    link : "#services"
+    link : "#about"
