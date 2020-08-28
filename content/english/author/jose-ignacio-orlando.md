@@ -1,5 +1,5 @@
 ---
-title: "José Ignacio Orlando"
+title: "Jose Ignacio Orlando"
 image: "images/team/nacho_orlando.jpg"
 email: "jiorlando@pladema.exa.unicen.edu.ar"
 social:
