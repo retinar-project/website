@@ -1,6 +1,6 @@
 ---
 title: "We are one of the 15 projects in the next round of Prendete!"
-date: 2020-08-27T12:52:36+06:00
+date: 2020-09-21T12:52:36+06:00
 image_webp: images/blog/logo_prendete.webp
 image: images/blog/logo_prendete.jpg
 author: Jose Ignacio Orlando
