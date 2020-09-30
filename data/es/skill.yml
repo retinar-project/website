@@ -27,6 +27,6 @@ skill:
       percent : 30%
 
     # skill item loop
-    - name :  millones de personas por cada oftalmólogo!
-      number : 31.7
+    - name :  oftalmólogos por millón de habitantes en países de bajo desarrollo
+      number : 3.7
       percent : 3%
