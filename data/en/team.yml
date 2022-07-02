@@ -28,28 +28,16 @@ team:
           link : "https://www.hospitalelcruce.org/index.php/servicios/81-servicios/3735-oftalmologia"
         
     # team member loop
-    - name : Ezequiel Rosendi, MD
-      image_webp : images/team/ezequiel_rosendi.webp
-      image : images/team/ezequiel_rosendi.jpg
-      designation : Co-founder / Clinical staff
-      content : Ophthalmologist. Retina expert @ Ophthalmology Department, Hospital Alta Complejidad El Cruce (Florencio Varela).
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/ezequiel-rosendi-180b8950"
-        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.hospitalelcruce.org/index.php/servicios/81-servicios/3735-oftalmologia"
-        
-    # team member loop
-    - name : Alejandro Koch, MD
-      image_webp : images/team/alejandro_koch.webp
-      image : images/team/alejandro_koch.jpg
-      designation : Co-founder / Clinical staff
-      content : Cardiologist. Coordinator of Telemedicine @ Hospital Alta Complejidad El Cruce (Florencio Varela).
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/alejandro-koch-6258b7a7/"
-        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-          link : "http://telemedicina.blogs.hospitalelcruce.org/"
+    #- name : Alejandro Koch, MD
+    #  image_webp : images/team/alejandro_koch.webp
+    #  image : images/team/alejandro_koch.jpg
+    #  designation : Co-founder / Clinical staff
+    #  content : Cardiologist. Coordinator of Telemedicine @ Hospital Alta Complejidad El Cruce (Florencio Varela).
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/alejandro-koch-6258b7a7/"
+    #    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    #      link : "http://telemedicina.blogs.hospitalelcruce.org/"
 
     # team member loop
     - name : Ignacio Larrabide, PhD
@@ -62,3 +50,35 @@ team:
           link : "https://ar.linkedin.com/public-profile/in/ignacio-larrabide-80426428"
         - icon : ti-world # themify icon pack : https://themify.me/themify-icons
           link : "https://yatiris.github.io/people/ignacio_larrabide/index.html"
+
+    # team member loop
+    #- name : Ezequiel Rosendi, MD
+    #  image_webp : images/team/ezequiel_rosendi.webp
+    #  image : images/team/ezequiel_rosendi.jpg
+    #  designation : Co-founder / Clinical staff
+    #  content : Ophthalmologist. Retina expert @ Ophthalmology Department, Hospital Alta Complejidad El Cruce (Florencio Varela).
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/ezequiel-rosendi-180b8950"
+    #    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.hospitalelcruce.org/index.php/servicios/81-servicios/3735-oftalmologia"
+
+    # team member loop
+    - name : Tomás Castilla, Eng.
+      image_webp : 
+      image : images/team/tomas-castilla.jpg
+      designation : AI staff
+      content : Software Engineer. AI developer.
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/tomas-castilla-7a6614180/?originalSubdomain=ar"
+
+    # team member loop
+    - name : Marcela Martínez, MD
+      image_webp : 
+      image : images/team/marcela-martinez.jpg
+      designation : Clinical staff
+      content : Ophthalmologist. Director of Martinez Ophthalmological Center (Pehuajó).
+      social :
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/MartinezCentroDeOftalmologia/"

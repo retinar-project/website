@@ -16,7 +16,7 @@ service:
     # service item loop
     - name : Computer-assisted Diagnosis
       icon : icono-arg-ciencia-publicacion # themify icon pack : https://themify.me/themify-icons
-      content : Our AI technology aids ophthalmologists to increase their throughput when diagnosing patients from fundus pictures, bringing efficiency to the reading process.
+      content : Our AI technology aids ophthalmologists to increase their throughput analyzing fundus pictures, bringing efficiency to the reading process.
       
     # service item loop
     - name : AI Assisted Fundus Image Acquisition
@@ -26,9 +26,9 @@ service:
     # service item loop
     - name : Networks for Treatment
       icon : icono-arg-exterior # themify icon pack : https://themify.me/themify-icons
-      content : Any clinic and/or specialist with treatment support can register in our platform to be recommended by retinar to referrable patients.
+      content : Any clinic and/or treatment specialist can register in our platform to be recommended by retinar to patients in need.
       
     # service item loop
     - name : Logistic Solutions to Patients
       icon : icono-arg-ahorro # themify icon pack : https://themify.me/themify-icons
-      content : Patients no longer need to search clinics for treatment by themselves. retinar recommends the closest health centers to start treatment right away.
+      content : Patients no longer need to search clinics for treatment by themselves. retinar recommends the closest health centers to start the treatment right away.

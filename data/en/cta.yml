@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-ai.jpg"
   bg_image_webp : "images/backgrounds/bg-ai.webp"
   title : "Artificial intelligence to prevent blindness"
-  content : "Our team of data scientists develops cutting edge AI tools to aid clinicians to diagnose eye diseases."
+  content : "Our team of data scientists develops cutting edge AI tools that aid clinicians to diagnose eye diseases."
   button:
     enable : true
     label : "Contact Us!"

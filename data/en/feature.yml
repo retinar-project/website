@@ -4,7 +4,7 @@ feature:
   image : images/about/nurse.jpg
   image_webp : images/about/nurse.webp
   title : The right diagnosis. Everywhere. Anytime.
-  content : "retinar aids patients around the world to access to an accurate diagnosis regardless of the regional availability of ophthalmologists."
+  content : "retinar aids patients around the world to access to accurate diagnostics regardless of the regional availability of ophthalmologists."
   feature_item : 
       # feature item loop
     - title : Fundus image based
@@ -14,7 +14,7 @@ feature:
       # feature item loop
     - title : AI based instant referral
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Our AI can determines in-place and with high accuracy if the patient needs referral to an ophthalmologist. In that case, the image is transferred for analysis to retina experts.
+      content : Our AI can determine in-place and with high accuracy if the patient needs referral to an ophthalmologist. In that case, the image is transferred to be analyzed by retina experts.
 
       # feature item loop
     - title : Connecting professionals
@@ -24,4 +24,4 @@ feature:
       # feature item loop
     - title : Treatment recommendations
       icon : fa fa-hospital-o # themify icon pack : https://themify.me/themify-icons
-      content : We provide risk patients with recommendations of hospitals and private clinics close to their places, to reduce logistics costs, bring rapid treatment and prevent blindness.
+      content : We provide patients at risk with recommendations of hospitals and clinics close to their living places, reducing logistics costs & bringing rapid treatment to prevent blindness.
