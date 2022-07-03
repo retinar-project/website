@@ -67,8 +67,8 @@ team:
     - name : Tomás Castilla, Eng.
       image_webp : 
       image : images/team/tomas-castilla.jpg
-      designation : AI staff
-      content : Software Engineer. AI developer.
+      designation : Equipo IA
+      content : Ingeniero de Sistemas. Desarrollador de software.
       social :
         - icon : ti-world # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/tomas-castilla-7a6614180/?originalSubdomain=ar"
@@ -77,8 +77,8 @@ team:
     - name : Marcela Martínez, MD
       image_webp : 
       image : images/team/marcela-martinez.jpg
-      designation : Clinical staff
-      content : Ophthalmologist. Director of Martinez Ophthalmological Center (Pehuajó).
+      designation : Equipo clínico
+      content : Oftalmóloga. Directora del Centro de Oftalmología Martínez (Pehuajó).
       social :
         - icon : ti-world # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/MartinezCentroDeOftalmologia/"
