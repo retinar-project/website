@@ -26,18 +26,6 @@ team:
       social :
         - icon : ti-world # themify icon pack : https://themify.me/themify-icons
           link : "https://www.hospitalelcruce.org/index.php/servicios/81-servicios/3735-oftalmologia"
-        
-    # team member loop
-    #- name : Dr. Alejandro Koch
-    #  image_webp : images/team/alejandro_koch.webp
-    #  image : images/team/alejandro_koch.jpg
-    #  designation : Co-fundador / Equipo clínico
-    #  content : Cardiólogo. Coordinador de Telemedicina del Hospital Alta Complejidad El Cruce (Florencio Varela).
-    #  social :
-    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #      link : "https://www.linkedin.com/in/alejandro-koch-6258b7a7/"
-    #    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-    #      link : "http://telemedicina.blogs.hospitalelcruce.org/"
 
     # team member loop
     - name : Ignacio Larrabide, PhD
@@ -82,3 +70,15 @@ team:
       social :
         - icon : ti-world # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/MartinezCentroDeOftalmologia/"
+
+    # team member loop
+    - name : Dr. Alejandro Koch
+      image_webp : images/team/alejandro_koch.webp
+      image : images/team/alejandro_koch.jpg
+      designation : Co-fundador / Equipo clínico
+      content : Cardiólogo. Servicio de Cirugía Cardiovascular Hospital Alta Complejidad El Cruce (Florencio Varela).
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/alejandro-koch-6258b7a7/"
+        - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+          link : "http://telemedicina.blogs.hospitalelcruce.org/"
