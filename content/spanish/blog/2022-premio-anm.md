@@ -1,6 +1,6 @@
 ---
 title: "Premio Anual de la Academia Nacional de Medicina"
-date: 2021-06-22T18:51:36+06:00
+date: 2022-08-02T18:51:36+06:00
 image_webp: 
 image: images/blog/premio-cno-2022.jpeg
 author: Jose Ignacio Orlando

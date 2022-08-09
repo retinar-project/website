@@ -1,6 +1,6 @@
 ---
 title: "Premio en Congreso Nacional de Oftalmología"
-date: 2021-06-22T18:51:36+06:00
+date: 2022-06-10T18:51:36+06:00
 image_webp: 
 image: images/blog/premio-cno-2022.jpeg
 author: Jose Ignacio Orlando
